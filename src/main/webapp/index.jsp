@@ -2,236 +2,129 @@
 <body>
 <h2>Hello World!</h2>
 <H1>XL DEPLOY TEST </H1>
-       
-      <nav class="top-bar" data-topbar>
-        <ul class="title-area">
-           
-          <li class="name">
-            <h1>
-              <a href="#">
-                Top Bar Title
-              </a>
-            </h1>
-          </li>
-          <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
-        </ul>
-     
-        <section class="top-bar-section">
-           
-          <ul class="left">
-            <li class="divider"></li>
-            <li class="has-dropdown">
-              <a class="active" href="#">Main Item 1</a>
-              <ul class="dropdown">
-                <li><label>Section Name</label></li>
-                <li><a href="#" class="">Dropdown Level 1</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><label>Section Name</label></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all →</a></li>
-              </ul>
-            </li>
-            <li class="divider"></li>
-            <li><a href="#">Main Item 2</a></li>
-            <li class="divider"></li>
-            <li class="has-dropdown">
-              <a href="#">Main Item 3</a>
-              <ul class="dropdown">
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all →</a></li>
-              </ul>
-            </li>
-           
-          </ul>
-     
-           
-          <ul class="right">
-            <li class="divider"></li>
-            <li class="has-dropdown">
-              <a href="#">Main Item 4</a>
-              <ul class="dropdown">
-                <li><label>Section Name</label></li>
-                <li class="has-dropdown">
-                  <a href="#" class="">Has Dropdown, Level 1</a>
-                  <ul class="dropdown">
-                    <li><a href="#">Dropdown Options</a></li>
-                    <li><a href="#">Dropdown Options</a></li>
-                    <li class="has-dropdown">
-                      <a href="#">Has Dropdown, Level 2</a>
-                      <ul class="dropdown test">
-                        <li><a href="#">Subdropdown Option</a></li>
-                        <li><a href="#">Subdropdown Option</a></li>
-                        <li><a href="#">Subdropdown Option</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="#">Subdropdown Option</a></li>
-                    <li><a href="#">Subdropdown Option</a></li>
-                    <li><a href="#">Subdropdown Option</a></li>
-                  </ul>
-                </li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><label>Section Name</label></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all →</a></li>
-              </ul>
-            </li>
-            <li class="divider"></li>
-            <li><a href="#">Main Item 5</a></li>
-            <li class="divider"></li>
-            <li class="has-dropdown">
-              <a href="#">Main Item 6</a>
-              <ul class="dropdown">
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li><a href="#">Dropdown Option</a></li>
-                <li class="divider"></li>
-                <li><a href="#">See all →</a></li>
-              </ul>
-            </li>
-          </ul>
-        </section>
-      </nav>
-     
-     
-       
-     
-       
-     
-      <div class="row">
-     
-        <div class="large-3 columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a three columns grid panel with an arbitrary height.</p>
-          </div>
-        </div>
-        <div class="large-6 columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
-          </div>
-        </div>
-        <div class="large-3  columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a three columns grid panel with an arbitrary height.</p>
-          </div>
-        </div>
-     
-      </div>
-     
-     
-     
-      <div class="row">
-     
-        <div class="large-6 columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
-          </div>
-        </div>
-        <div class="large-2 columns">
-          <div class="panel">
-            <p>
-              <img src="http://placehold.it/200x200"/>
-            </p>
-          </div>
-        </div>
-        <div class="large-4 columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a four columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami.</p>
-          </div>
-        </div>
-     
-      </div>
-     
-     
-      <div class="row">
-     
-        <div class="large-4 columns">
-          <div class="panel">
-            <p>
-              <img src="http://placehold.it/400x300"/>
-            </p>
-          </div>
-        </div>
-        <div class="large-4 columns">
-          <div class="panel">
-            <p>
-              <img src="http://placehold.it/400x300"/>
-            </p>
-          </div>
-        </div>
-        <div class="large-4 columns">
-          <div class="panel">
-            <p>
-              <img src="http://placehold.it/400x300"/>
-            </p>
-          </div>
-        </div>
-     
-      </div>
-     
-     
-      <div class="row">
-     
-        <div class="large-6 columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a six columns grid panel with an arbitrary height. Bacon ipsum dolor sit amet salami ham hock biltong ball tip drumstick sirloin pancetta meatball short loin.</p>
-          </div>
-        </div>
-        <div class="large-3 columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a three columns grid panel with an arbitrary height.</p>
-          </div>
-        </div>
-        <div class="large-3 columns">
-          <div class="panel">
-            <h5>Panel Title</h5>
-            <p>This is a three columns grid panel with an arbitrary height.</p>
-          </div>
-        </div>
-     
-      </div>
-     
-       
-    
-       
-     
-      <footer class="row">
-        <div class="large-12 columns">
-          <hr/>
-          <div class="row">
-            <div class="large-6 columns">
-              <p>© Copyright no one at all. Go to town.</p>
-            </div>
-            <div class="large-6 columns">
-              <ul class="inline-list right">
-                <li><a href="#">Section 1</a></li>
-                <li><a href="#">Section 2</a></li>
-                <li><a href="#">Section 3</a></li>
-                <li><a href="#">Section 4</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </footer>
-    
+  
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Foundation Template | Portfolio Theme</title>
+<meta name="description" content="Documentation and reference library for ZURB Foundation. JavaScript, CSS, components, grid and more."/>
+<meta name="author" content="ZURB, inc. ZURB network also includes zurb.com"/>
+<meta name="copyright" content="ZURB, inc. Copyright (c) 2015"/>
+<link rel="stylesheet" href="../assets/css/templates/foundation.css"/>
+<link rel="stylesheet" href="../assets/css/template-themes/portfolio-theme.css"/>
+<script src="../assets/js/modernizr.js"></script>
+</head>
+<body>
+<link href="http://fonts.googleapis.com/css?family=Raleway:600,400,200" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
+<div class="row">
+<div class="small-12 medium-4 large-6 columns namelogo">
+<h1>Name/Logo/Brand</h1>
+</div>
+<div class="small-12 medium-8 large-6 columns">
+<div class="nav-bar">
+<ul class="button-group">
+<li><a href="#" class="button">About</a></li>
+<li><a href="#" class="button">Work</a></li>
+<li><a href="#" class="button">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="hero">
+<div class="row">
+<div class="large-12 columns intro-text">
+<p>Hi there!<br>I take outdoor pictures.</p>
+</div>
+</div>
+</div>
+<div class="row about">
+<div class="medium-6 large-8 columns">
+<h4>About</h4>
+<p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+</div>
+<div class="medium-6 large-4 columns">
+<img src="../assets/img/develop/template-themes/portfolio5.png">
+</div>
+</div>
+<div class="row work">
+<hr>
+<div class="large-12 columns">
+<h4>Work</h4>
+<p>Click on each image to view my work!</p>
+<ul class="clearing-thumbs small-block-grid-1 medium-block-grid-2 large-block-grid-4" data-clearing>
+<li>
+<a href="../assets/img/develop/template-themes/portfolio1.jpg">
+<img data-caption="caption here" src="../assets/img/develop/template-themes/portfolio1.jpg"></a>
+</li>
+<li>
+<a href="../assets/img/develop/template-themes/portfolio2.jpg"><img data-caption="caption 2 here..." src="../assets/img/develop/template-themes/portfolio2.jpg"></a>
+</li>
+<li>
+<a href="../assets/img/develop/template-themes/portfolio3.jpg"><img data-caption="caption 3 here..." src="../assets/img/develop/template-themes/portfolio3.jpg"></a>
+</li>
+<li>
+<a href="../assets/img/develop/template-themes/portfolio4.jpg"><img data-caption="caption 4 here..." src="../assets/img/develop/template-themes/portfolio4.jpg"></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="row contact">
+<hr>
+<div class="large-12 columns">
+<h4>Contact Me</h4>
+<div class="large-4 columns">
+<strong>Email</strong>: <a href="#"><span class="__cf_email__" data-cfemail="9df0f8ddf0e4edf2efe9fbf2f1f4f2b3fef2f0">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">
+/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("data-cfhash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}t.parentNode.removeChild(t);}}catch(u){}}()/* ]]> */</script></a>
+</div>
+<div class="large-4 columns">
+<strong>Twitter</strong>: @twitterhandle
+</div>
+<div class="large-4 columns">
+<strong>Phone</strong>: 555-555-1234
+</div>
+</div>
+</div>
+<footer class="row">
+<div class="large-12 columns">
+<div class="row">
+<div class="large-6 columns">
+<p>© Copyright no one at all. Go to town.</p>
+</div>
+<div class="large-6 columns">
+<ul class="inline-list right">
+<li><a href="#">FAQ</a></li>
+<li><a href="#">Privacy</a></li>
+<li><a href="#">Suscribe</a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script>
+  document.write('<script src=' +
+  ('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
+  '.js><\/script>')
+</script>
+<script src="js/vendor/jquery.js"></script>
+<script src="js/foundation.min.js"></script>
+<script src="js/foundation/foundation.js"></script>
+<script src="js/foundation/foundation.clearing.js"></script>
+<script>
+  $(document).foundation();
+</script>
+<script src="../assets/js/templates/jquery.js"></script>
+<script src="../assets/js/templates/foundation.js"></script>
+<script>
+      $(document).foundation();
+
+      var doc = document.documentElement;
+      doc.setAttribute('data-useragent', navigator.userAgent);
+    </script>
+</body>
+</html>
 </body>
 </html>
