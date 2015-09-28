@@ -3,6 +3,18 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>helloaddevops</artifactId>
+  <distributionManagement>
+  <repository>
+     <id>deployment</id>
+     <name>Internal Releases</name>
+     <url>http:http://52.89.180.129:8081/nexus/content/repositories/releases/</url>
+  </repository>
+  <snapshotRepository>
+     <id>deployment</id>
+     <name>Internal Releases</name>
+     <url>http:http://52.89.180.129:8081/nexus/content/repositories/snapshots/</url>
+  </snapshotRepository>
+</distributionManagement>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>helloaddevops Maven Webapp</name>
