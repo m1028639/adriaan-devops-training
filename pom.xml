@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>helloaddevops</artifactId>
-    <packaging>war</packaging>
+   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>helloaddevops Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -18,6 +18,4 @@
   <build>
     <finalName>helloaddevops</finalName>
   </build>
-  
-  
 </project>
